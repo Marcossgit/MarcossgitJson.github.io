@@ -1,4 +1,4 @@
-// Tämä funktio hakee ja näyttää JSON-datan toisella sivulla
+
 function fetchData() {
     const jsonData = {
         "otsikko": "JSON-datan käsittelyä",
@@ -43,5 +43,5 @@ function fetchData() {
     `;
 }
 
-// Suoritetaan, kun sivu on ladattu
+
 document.addEventListener("DOMContentLoaded", fetchData);

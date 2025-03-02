@@ -1,4 +1,4 @@
-/* Perustyylit sivulle */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -41,7 +41,7 @@ footer {
     margin-top: 20px;
 }
 
-/* Responsiivisuus */
+
 @media screen and (max-width: 600px) {
     header, footer {
         padding: 10px;
